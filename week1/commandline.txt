@@ -1,0 +1,8 @@
+to create a hidden file/folder - touch .file.txt/ mkdir .namedir
+to see hidden files/folders - ls -a
+to create multiple nested directories - use the -p flag,
+For exmaple mkdir -p first/second/third
+to append a message to a file, without a newline character
+to add a empty message
+echo text >> file.conf
+echo ""  >> file.conf
