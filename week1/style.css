@@ -2,6 +2,11 @@
     margin: 0;
 }
 
+html {
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 62.5%;
+}
+
 body {
     min-width: 1024px;
 }
@@ -23,10 +28,9 @@ body {
 }
 
 .maintitle {
-    font-family: 'Inter Tight', sans-serif;
-    font-size: 58px;
+    font-size: 5.8rem;
     font-weight: bold;
-    line-height: 60px;
+    line-height: 6rem;
     width: 70%;
     text-align: left;
     margin-top: 20px;
@@ -48,11 +52,10 @@ body {
 
 .menu_link {
     text-decoration: none;
-    font-family: 'Inter Tight', sans-serif;
     color: black;
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: bold;
-    line-height: 20px;
+    line-height: 2rem;
     transition: color .4s;
 }
 
@@ -100,11 +103,10 @@ body {
 }
 
 .subtitle {
-    font-family: 'Inter Tight', sans-serif;
     color: black;
-    font-size: 28px;
+    font-size: 2.8rem;
     font-weight: bold;
-    line-height: 30px;
+    line-height: 3rem;
     margin: 15px auto 0;
 }
 
@@ -115,18 +117,17 @@ body {
 }
 
 .list_element {
-    font-family: 'Inter Tight', sans-serif;
     color: black;
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: normal;
-    line-height: 20px;
+    line-height: 2rem;
     margin-top: 10px;
 }
 
 .list_span {
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: bold;
-    line-height: 24px;
+    line-height: 2.4rem;
 }
 
 .whoare {
@@ -162,9 +163,8 @@ body {
 .footer_copy {
     margin: 50px 0 0 20px;
     width: 80%;
-    font-family: 'Inter Tight', sans-serif;
     color: black;
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: normal;
 }
 
@@ -184,9 +184,8 @@ body {
 
 .footer_link {
     text-decoration: none;
-    font-family: 'Inter Tight', sans-serif;
     color: black;
-    font-size: 14px;
+    font-size: 1.4rem;
     font-weight: normal;
     transition: color .4s;
 }
